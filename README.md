@@ -22,6 +22,9 @@ Project
 `-- train.py
 ```
 
+## Model
+![](images/resnet-50.png)
+
 ## Usage
 Run ```python dataset_clusterer.py``` to make batches of train data and test data and 
 save them in ```./datasets/train_set``` and ```./datasets/train_set``` respectively.
